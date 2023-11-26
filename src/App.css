@@ -1,0 +1,10 @@
+.mode-change{
+  height: 30px;
+  width: auto;
+  border: none;
+  background: transparent;
+}
+.mode-change img{
+  height: 30px;
+  width: auto;
+}
