@@ -1,4 +1,4 @@
-const data = [
+const Data = [
   {
     image: "../h1.png",
     project: "Whether App",
@@ -20,4 +20,4 @@ const data = [
     type: "Web Application",
   },
 ];
-export default data;
+export default Data;

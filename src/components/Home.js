@@ -1,6 +1,5 @@
 import React from 'react'
 import Project from './Project'
-import Data from '../db/data'
 const Home = () => {
   return (
    <>
@@ -15,7 +14,7 @@ const Home = () => {
       </div>
 
     </div>
-    <Project Data={Data}/>
+    <Project/>
 
 
    </>
